@@ -83,8 +83,8 @@ author:
   name             : "Fan Fei"
   avatar           : "Portrait2.jpg"
   bio              : "PhD Candidate in Additive Manufacturing, University of Iowa"
-  location         : 
-  employer         : "University of Iowa"
+  location         : Iowa City IA
+  employer         : # "University of Iowa"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ugrEXmkAAAAJ&hl=en"
   email            : "fan-fei@uiowa.edu"
