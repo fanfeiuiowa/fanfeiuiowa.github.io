@@ -8,7 +8,7 @@ collection: portfolio
 
 <img src='/images/1st_gen_schematics_v.png'>
 
-* **Samples:**Extruding-based Shapes by 1st generation printer.
+* **Samples:** Extruding-based Shapes by 1st generation printer. From left to right: crossing, panda, gear.
 
 <img src='/images/1st_gen_samples.jpg'>
 
