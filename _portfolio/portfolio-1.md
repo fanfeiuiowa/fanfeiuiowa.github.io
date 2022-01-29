@@ -6,9 +6,15 @@ collection: portfolio
 
 * **Design and schematics of printing:** The 1st generation HJF process is a powder-bed-based AM approach. The printer contains a inkjet printhead disassembled from a commeral Canon inkjet printer, a powder reservoir for powder supply, a roller for powder spread, and a building platform for inkjetting of droplets layer by layer according to the CAD design.
 
-<img src='/images/1st_gen_schematics_v.png'>
+<p align="center">
+  <img src='/images/1st_gen_schematics_v.png'>
+</p>
+
 
 * **Samples:** Extruding-based Shapes by 1st generation printer. From left to right: crossing, panda, gear.
 
-<img src='/images/1st_gen_samples.jpg'>
+<p align="center">
+  <img src='/images/1st_gen_samples.jpg' width="600">
+</p>
+
 
