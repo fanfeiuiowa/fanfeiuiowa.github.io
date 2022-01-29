@@ -1,6 +1,6 @@
 ---
 title: "Hydrothermal-Assisted Jet Fusion (HJF): A Binder-free Additive Manufacturing Approach for Ceramics - 1st Generation "
-excerpt: "1st generation of HJF process is based on a thermal-based Canon inkjet cartridge<br/><img src='/images/500x300.png'>"
+excerpt: "1st generation of HJF process based on a thermal-based Canon inkjet cartridge.<br/><img src='/images/1st_gen_printer.jpg'>"
 collection: portfolio
 ---
 
