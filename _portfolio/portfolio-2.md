@@ -5,7 +5,7 @@ excerpt: "2nd generation of HJF process based on a piezoelectric-based inkjet pr
 collection: portfolio
 ---
 
-* **Design and schematics of printing:** The 2nd generation HJF process is a powder-bed-based AM approach. Compared to the 1st generation, the 2nd generation printer has a piezoelectric printhead and a pressure-temperature system to do 3D printing with wider types of ceramic materials.
+* **Design and schematics of printing process:** The 2nd generation HJF process is a powder-bed-based AM approach. Compared to the 1st generation, the 2nd generation printer has a piezoelectric printhead and a pressure-temperature system to do 3D printing with wider types of ceramic materials.
 
 <p align="center">
   <img src='/images/2nd_gen_design_2.png' width="600"/>
