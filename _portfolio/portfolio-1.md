@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hydrothermal-Assisted Jet Fusion (HJF): A Binder-free Additive Manufacturing Approach for Ceramics - 1st Generation "
+excerpt: "1st generation of HJF process is based on a thermal-based Canon inkjet cartridge<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
