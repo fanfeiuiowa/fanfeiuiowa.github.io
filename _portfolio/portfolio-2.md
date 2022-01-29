@@ -10,5 +10,5 @@ collection: portfolio
 
 * **Samples:** Extruding-based Shapes by 1st generation printer. From left to right: crossing, panda, gear.
 
-<img src='/images/1st_gen_samples.jpg'>
+<img src='/images/1st_gen_samples.jpg' width="200"/>
 
