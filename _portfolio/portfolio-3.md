@@ -1,6 +1,6 @@
 ---
 title: "Embedded Printing of Stretchable Self-Morphing Skin"
-excerpt: "Embedded printing of liquid-metal electrodes directly in the silicone elastomer.<br/><img src='/images/afm_cover.png' width='600'/>"
+excerpt: "Embedded printing of liquid-metal electrodes directly in the silicone elastomer.<br/><img src='/images/afm_abstract.png' width='600'/>"
 
 collection: portfolio
 ---
