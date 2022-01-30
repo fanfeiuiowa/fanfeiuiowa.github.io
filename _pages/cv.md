@@ -97,11 +97,6 @@ Talks
 * “Binder-free Additive Manufacturing of Ceramics Using Hydrothermal-assisted Transient Jet Fusion”, *32nd Annual International Solid Freeform Fabrication Symposium (virtual)*, Austin, Texas, Aug. 2-4, 2021.
 * “Hydrothermal-assisted Powder Bed Fusion of Ceramics for Achieving High Green Density”, *30th Annual International Solid Freeform Fabrication Symposium*, Austin, Texas, Aug. 12-14, 2019.
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-  
 Honors
 ======
 * 2021 NSF Student Travel Award for SFF 2021 Symposium
