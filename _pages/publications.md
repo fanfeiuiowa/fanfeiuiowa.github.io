@@ -16,13 +16,13 @@ Matthew T. Remy, Adil Akkouch, Li He, Steven Eliason, Mason E. Sweat, Tadkamol K
 **Fan Fei**, Li He, Baizhuang Zhou, Ziyang Xu, Xuan Song. *JOM*, 2020.
 5. [Support-free ceramic stereolithography of complex overhanging structures based on an elasto-viscoplastic suspension feedstock](https://pubs.acs.org/doi/abs/10.1021/acsami.9b04205)<br/>
 Li He, **Fan Fei**, Wenbo Wang, and Xuan Song. *ACS applied materials & interfaces*, 2019.
-6. [Layerless Additive Manufacturing of Metal Alloy Lattices Using Immiscible-Interface Assisted Direct Metal Drawing](https://www.sciencedirect.com/science/article/pii/S2351978919308340)<br/>
-Li He, **Fan Fei**, Wenbo Wang, and Xuan Song. *Procedia Manufacturing*, 2019.
 
 ## Conference Proceedings
 1. [Hydrothermal Assisted Transient Jet Fusion of Ceramics: A Test Case Using Bentonite Clay](https://www.sciencedirect.com/science/article/pii/S2351978920315687)<br/>
 Levi Kirby, **Fan Fei**, Chao Wang, Xuan Song. *Procedia Manufacturing*, 2020.
-2. [Predicting manufactured shapes of a projection micro-stereolithography process via convolutional encoder-decoder networks](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2018/V01BT02A033/273569)<br/>
+2. [Layerless Additive Manufacturing of Metal Alloy Lattices Using Immiscible-Interface Assisted Direct Metal Drawing](https://www.sciencedirect.com/science/article/pii/S2351978919308340)<br/>
+Li He, **Fan Fei**, Wenbo Wang, and Xuan Song. *Procedia Manufacturing*, 2019.
+3. [Predicting manufactured shapes of a projection micro-stereolithography process via convolutional encoder-decoder networks](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2018/V01BT02A033/273569)<br/>
 Yusen He, **Fan Fei**, Wenbo Wang, Xuan Song, Zhiyu Sun, Stephen Baek. *International Design Engineering Technical Conferences and Computers and Information in Engineering Conference*, 2018.
 
 {% if author.googlescholar %}
