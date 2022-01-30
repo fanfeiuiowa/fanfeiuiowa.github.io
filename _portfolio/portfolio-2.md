@@ -4,7 +4,7 @@ excerpt: "2nd generation of HJF process based on a piezoelectric-based inkjet pr
 
 collection: portfolio
 ---
-* **Printing Procedure of HJF process:** It contains five steps, including powder spreading, powder packing, solution deposition, hydrothermal fusion, and de-powdering.
+* **Printing procedure of HJF process:** It contains five steps, including powder spreading, powder packing, solution deposition, hydrothermal fusion, and de-powdering.
 
 <p align="center">
   <img src='/images/2nd_gen_procedure.png' width="600"/>
