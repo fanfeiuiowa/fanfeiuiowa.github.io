@@ -17,7 +17,7 @@ Related [[Paper 1]](https://fanfeiuiowa.github.io/files/1-s2.0-S2351978920315687
   <img src='/images/2nd_gen_design_2.png' width="600"/>
 </p>
 
-* **Samples:** Complex 3D structure by 2nd generation printer. More samples are available in the new paper under review.
+* **Samples:** Complex 3D structure by 2nd generation printer. More printed samples are available in the new paper under review.
 <p align="center">
     <img src='/images/2nd_gen_sample.png' width="600"/>
 </p>
