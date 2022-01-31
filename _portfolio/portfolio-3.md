@@ -5,6 +5,7 @@ excerpt: "Embedded printing of liquid-metal electrodes directly in the silicone 
 collection: portfolio
 ---
 This work was selected as the cover of *Advanced Functional Material* [[Link]](https://onlinelibrary-wiley-com.proxy.lib.uiowa.edu/doi/abs/10.1002/adfm.202170342)<br/>
+Related [[Paper]](https://fanfeiuiowa.github.io/files/Adv Funct Materials - 2021 - Fei - Cephalopod‐Inspired Stretchable Self‐Morphing Skin Via Embedded Printing and Twisted.pdf)<br/>
 * **Schematic illustration of embedded 3D printing:** 
 
 <p align="center">
