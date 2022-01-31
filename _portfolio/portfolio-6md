@@ -7,7 +7,7 @@ collection: portfolio
 * **System design of P-µSLA process:** The printer is a bottom-up SLA (DLP) process with a digital projector screen at accuracy of 10 µm. 
 
 <p align="center">
-  <img src='/images/usla_schematics.png' width='400'/>
+  <img src='/images/usla_schematics.png' width='500'/>
 </p>
 
 * **Test cases fabricated by P-µSLA process:** Effel Tower, Batman, Latice Cube and Lattice Sphere were printed.
