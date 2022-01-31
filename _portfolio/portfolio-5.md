@@ -1,6 +1,6 @@
 ---
 title: "Layerless Additive Manufacturing of Metal Alloy Lattices Using Immiscible-Interface Assisted Direct Metal Drawing (II-DMD)"
-excerpt: "Extrusion-based metal drawing process without generating staircase effect and the need of support structures. Related [[Paper]](https://fanfeiuiowa.github.io/files/1-s2.0-S2351978919308340-main.pdf)<br/><img src='/images/diw_schematics.png' width='600'/>"
+excerpt: "Extrusion-based metal drawing process without generating staircase effect and the need of support structures. Related [[Paper]](https://fanfeiuiowa.github.io/files/1-s2.0-S2351978919308340-main.pdf)<br/><img src='/images/diw_schematics.png' width='400'/>"
 
 collection: portfolio
 ---
@@ -9,7 +9,7 @@ collection: portfolio
 established between the bronze and alumina particles, which locks the bronze and alumina particles in position and maintain the 3D shape of the deposited bronze-oil suspension.
 
 <p align="center">
-  <img src='/images/diw_schematics.png' width='600'/>
+  <img src='/images/diw_schematics.png' width='400'/>
 </p>
 
 * **Test cases fabricated by II-DMD process:** Fabrication results via the SEPS process: (a) a lattice structure, (b) stent structure, (c) cone springs, (d) optical microscope image of springs, (e) and (f) SEM images of printed samples,
