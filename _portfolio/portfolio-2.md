@@ -1,6 +1,6 @@
 ---
 title: "Hydrothermal-Assisted Jet Fusion (HJF): A Binder-free Additive Manufacturing Approach for Ceramics - 2nd Generation "
-excerpt: "2nd generation of HJF process based on a piezoelectric-based inkjet printhead.<br/><img src='/images/2nd_gen_design_2.png' width='300'/>"
+excerpt: "2nd generation of HJF process based on a piezoelectric-based inkjet printhead.<br/><img src='/images/2nd_gen_design_2.png' width='400'/>"
 
 collection: portfolio
 ---
@@ -16,7 +16,7 @@ collection: portfolio
   <img src='/images/2nd_gen_design_2.png' width="600"/>
 </p>
 
-* **Samples:** Complex 3D structure by 2nd generation printer. More samples are available in new paper.
+* **Samples:** Complex 3D structure by 2nd generation printer. More samples are available in the new paper under review.
 <p align="center">
     <img src='/images/2nd_gen_sample.png' width="600"/>
 </p>
