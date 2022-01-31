@@ -1,8 +1,10 @@
 ---
 title: "Hydrothermal-Assisted Jet Fusion (HJF): A Binder-free Additive Manufacturing Approach for Ceramics - 1st Generation "
-excerpt: "1st generation of HJF process based on a thermal-based Canon inkjet cartridge.<br/> [[Paper 1]](https://fanfeiuiowa.github.io/files/Fei2020_Article_Hydrothermal-AssistedTransient.pdf)[[Paper 2]](https://fanfeiuiowa.github.io/files/manu_143_5_051001.pdf)<br/><img src='/images/1st_gen_schematics.png' width='600'/>"
+excerpt: "1st generation of HJF process based on a thermal-based Canon inkjet cartridge. Related [[Paper 1]](https://fanfeiuiowa.github.io/files/Fei2020_Article_Hydrothermal-AssistedTransient.pdf) and [[Paper 2]](https://fanfeiuiowa.github.io/files/manu_143_5_051001.pdf)<br/><img src='/images/1st_gen_schematics.png' width='600'/>"
 collection: portfolio
 ---
+Related [[Paper 1]](https://fanfeiuiowa.github.io/files/Fei2020_Article_Hydrothermal-AssistedTransient.pdf) and [[Paper 2]](https://fanfeiuiowa.github.io/files/manu_143_5_051001.pdf)<br/>
+
 * **Overall schematics of 1st generation HJF process**: The HJF process contains three steps, including transient solution deposition, hydrothermal pressing and ultrasound elimination. The printer of 1st generation HJF process is able to complete the task of transient solution deposition. Based on a dissolution-precipitation mechanism, the hydraulic pressing machine and the heating jacket can complete the job of hydrothermal pressing process to bond target region together without any usage of organic binder. The ultrasound machine can remove the unwanted region to form the 3D parts.
 
 <p align="center">
