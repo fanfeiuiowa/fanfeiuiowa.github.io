@@ -9,12 +9,12 @@ collection: portfolio
 established between the bronze and alumina particles, which locks the bronze and alumina particles in position and maintain the 3D shape of the deposited bronze-oil suspension.
 
 <p align="center">
-  <img src='/images/diw_schematics.png' width='300'/>
+  <img src='/images/diw_schematics.png' width='400'/>
 </p>
 
 * **Test cases fabricated by II-DMD process:** Fabrication results via the SEPS process: (a) a lattice structure, (b) stent structure, (c) cone springs, (d) optical microscope image of springs, (e) and (f) SEM images of printed samples,
 (g) tensile test of a fabricated specimen.
 
 <p align="center">
-  <img src='/images/diw_samples.png' width='600'/>
+  <img src='/images/diw_samples.png' width='500'/>
 </p>
