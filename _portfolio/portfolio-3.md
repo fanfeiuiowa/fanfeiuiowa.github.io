@@ -1,11 +1,12 @@
 ---
 title: "Embedded Printing of Stretchable Self-Morphing Skin [Click for detail]"
-excerpt: "Embedded printing of liquid-metal electrodes directly in the silicone elastomer. Related [[Paper]](https://fanfeiuiowa.github.io/files/Adv Funct Materials - 2021 - Fei - Cephalopod‐Inspired Stretchable Self‐Morphing Skin Via Embedded Printing and Twisted.pdf)<br/><img src='/images/afm_abstract.png' width='600'/>"
+excerpt: "Embedded printing of liquid-metal electrodes directly in the silicone elastomer. Related [[Paper]](https://fanfeiuiowa.github.io/files/Adv Funct Materials - 2021 - Fei - Cephalopod‐Inspired Stretchable Self‐Morphing Skin Via Embedded Printing and Twisted.pdf)<br/>This work was selected as the cover of *Advanced Functional Material* [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202170342)(Impact Factor 18.808)<br/><img src='/images/afm_abstract.png' width='600'/>"
 
 collection: portfolio
 ---
-This work was selected as the cover of *Advanced Functional Material* [[Link]](https://onlinelibrary-wiley-com.proxy.lib.uiowa.edu/doi/abs/10.1002/adfm.202170342)<br/>
 Related [[Paper]](https://fanfeiuiowa.github.io/files/Adv Funct Materials - 2021 - Fei - Cephalopod‐Inspired Stretchable Self‐Morphing Skin Via Embedded Printing and Twisted.pdf)<br/>
+This work was selected as the cover of *Advanced Functional Material* [[Link]](https://onlinelibrary.wiley.com/doi/10.1002/adfm.202170342)(Impact Factor 18.808)<br/>
+
 * **Schematic illustration of embedded 3D printing:** 
 
 <p align="center">
