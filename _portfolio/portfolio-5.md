@@ -1,5 +1,5 @@
 ---
-title: "Layerless Additive Manufacturing of Metal Alloy Lattices Using Immiscible-Interface Assisted Direct Metal Drawing (II-DMD)"
+title: "Layerless Additive Manufacturing of Metal Alloy Lattices Using Immiscible-Interface Assisted Direct Metal Drawing (II-DMD) [Click for detail]"
 excerpt: "Extrusion-based metal drawing process without generating staircase effect and the need of support structures. Related [[Paper]](https://fanfeiuiowa.github.io/files/1-s2.0-S2351978919308340-main.pdf)<br/><img src='/images/diw_schematics.png' width='300'/>"
 
 collection: portfolio

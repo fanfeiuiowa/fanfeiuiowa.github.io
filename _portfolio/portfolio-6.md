@@ -1,5 +1,5 @@
 ---
-title: "Deep-learning based Prediction Model for Projection Micro-stereolithography (P-µSLA) Process "
+title: "Deep-learning based Prediction Model for Projection Micro-stereolithography (P-µSLA) Process [Click for detail]"
 excerpt: "A predicting model for P-µSLA process via convolutional encoder-decoder networks. Related [[Paper]](https://fanfeiuiowa.github.io/files/v01bt02a033-detc2018-85458.pdf)<br/><img src='/images/usla_schematics.png' width='400'/>"
 
 collection: portfolio

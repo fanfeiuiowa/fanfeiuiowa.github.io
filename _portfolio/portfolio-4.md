@@ -1,5 +1,5 @@
 ---
-title: "Suspension-enclosing Projection Stereolithography (SEPS) Process"
+title: "Suspension-enclosing Projection Stereolithography (SEPS) Process [Click for detail]"
 excerpt: "SEPS is able to print complex ceramic 3D structures without any support structures. Related [[Paper]](https://fanfeiuiowa.github.io/files/10106288.pdf)<br/><img src='/images/SEPS_abstract.png' width='600'/>"
 
 collection: portfolio
