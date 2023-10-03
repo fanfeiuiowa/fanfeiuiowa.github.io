@@ -15,4 +15,4 @@ PhD Candidate<br/>
 [Department of Industrial Engineering](https://ise.engineering.uiowa.edu/)<br/>
 [Iowa Institute Technology](https://iti.uiowa.edu/)<br/>
 **Phone:** (352) 283-2186<br/>
-**E-mail:** fan-fei@uiowa.edu<br/>
+**E-mail:** fanfei92@hotmail.com<br/>
