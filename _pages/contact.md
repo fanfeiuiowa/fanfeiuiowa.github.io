@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Fan Fei**<br/>
-PhD, Industrial Engineering<br/>
+**Fan Fei**, PhD<br/>
 Research Associate (PostDoc) in [HP Labs](https://www.hp.com/us-en/hp-labs/research/overview.html#section=tabs&tab=3d)<br/>
 
 [//]: # ([Additive Manufacturing-Integrated Product Realization Laboratory (AMPRL)](http://user.engineering.uiowa.edu/~xuasong/index.html))
