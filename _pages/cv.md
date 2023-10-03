@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[PDF]](https://fanfeiuiowa.github.io/files/Resume_of_Fan_Fei.pdf) 
+[[PDF]](https://fanfeiuiowa.github.io/files/Resume_of_Fan_Fei_2023.pdf) 
 
 Education
 ======
