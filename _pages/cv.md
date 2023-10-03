@@ -9,17 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-[[PDF]](https://fanfeiuiowa.github.io/files/Resume_FanFei_v2.pdf) 
+[[PDF]](https://fanfeiuiowa.github.io/files/Resume_of_Fan_Fei.pdf) 
 
 Education
 ======
-* Ph.D in Industrial Engineering, University of Iowa, 2022 (expected)
+* Ph.D in Industrial Engineering, University of Iowa, 2022
 * M.S. in Mechanical Engineering, University of Florida, 2016
 * B.S. in Aerospace Engineering, Harbin Institute of Technology, 2014
 
 Work & Research Experience
 ======
-* 08/17 to present: Research Assistant *University of Iowa*
+* 08/22 to present: Research Associate *HP Labs*
+  * Development of 3D printed electronics based on Multi Jet Fusion (MJF).
+    * Optimized the process parameters and improved the electric conductivity by 100% and mechanical strength by 25%.
+    * Printing quality control using CT and structured-light scanning methods.
+    * Designed and fabricated multiple 3D-structured sensors and actuators for demonstration for multiple industrial customers and universities.
+    * Characterization of material properties using SEM, EDS, XRD, DSC, etc.
+    * Drafted and submitted multiple IP/patents, proposals, and conference proceedings.
+
+* 08/17 to 08/22: Research Assistant *University of Iowa*
   * Developed a binder-free jetting-based ceramic printing process and printer.
     * Able to print complex ceramic structures with large density and strength.
     * Applications in energy devices (batteries), RF devices (antennas) and piezoelectric sensors (sonar).
@@ -44,16 +52,13 @@ product design and FDM 3D printers for the fabrication, etc.
   * Simulation research for Woven Composite Materials via FEA method
     * Found the tensile strength of the WCM material unit by software of Virtual Textile Morphology Suite and Abaqus.
   * Developed a 2-DOF planar end effector with passive force control.
-    * Tested the displacement and contact force of the end effector with encoders and made comparisons with the
-simulation results via MATLAB Simulink.
+    * Tested the displacement and contact force of the end effector with encoders and made comparisons with the simulation results via MATLAB Simulink.
  
 * 08/13-05/14: Research Internship *Texas A&M University*
   * Design and simulation research for Mars rover’s self-folding landing structure via FEA method.
     * It is an origami structure able to fold to target shape with certain strength and unfold into flat shape for storage.
-    * Simulated the folding and unfolding process of the structure by tuning the SMA’s temperature and alloy phases via 
-Abaqus.
-    * Optimized the structure with the objective to have lowest mass together with enough bending stiffness and buckling 
-strength via OpenDAO.
+    * Simulated the folding and unfolding process of the structure by tuning the SMA’s temperature and alloy phases via Abaqus.
+    * Optimized the structure with the objective to have lowest mass together with enough bending stiffness and buckling strength via OpenDAO.
   
 Community Activities
 ======
@@ -76,10 +81,11 @@ based).
 Publications
 ======
 Journals
+* **Fei, Fan**, Levi Kirby, Alexander Gralczyk, and Xuan Song. "Binder-free Additive Manufacturing of Ceramics using Hydrothermal-assisted Jet Fusion." Journal of the European Ceramic Society (2023)
 * **Fei, Fan**, Parth Kotak, Li He, Xiaofeng Li, Cyan Vanderhoef, Caterina Lamuta, and Xuan Song. "Cephalopod‐Inspired Stretchable Self‐Morphing Skin Via Embedded Printing and Twisted Spiral Artificial Muscles." *Advanced Functional Materials* (2021): 2105528.
 * **Fei, Fan**, Li He, Levi Kirby, and Xuan Song. "Study of Droplet Diffusion in Hydrothermal-Assisted Transient Jet Fusion of 
 Ceramics." Journal of Manufacturing Science and Engineering 143, no. 5 (2021): 051001.
-* Fei, Fan, Li He, Baizhuang Zhou, Ziyang Xu, and Xuan Song. "Hydrothermal-Assisted Transient Binder Jetting of Ceramics for Achieving High Green Density." *JOM* 72, no. 3 (2020): 1307-1313. 
+* **Fei, Fan**, Li He, Baizhuang Zhou, Ziyang Xu, and Xuan Song. "Hydrothermal-Assisted Transient Binder Jetting of Ceramics for Achieving High Green Density." *JOM* 72, no. 3 (2020): 1307-1313. 
 * Remy, Matthew T., Adil Akkouch, Li He, Steven Eliason, Mason E. Sweat, Tadkamol Krongbaramee, **Fan Fei**, et al. "Rat Calvarial Bone Regeneration by 3d-Printed Β-Tricalcium Phosphate Incorporating Microrna-200c." *ACS Biomaterials Science & Engineering* 7, no. 9 (2021): 4521-34.
 * He, Li, **Fan Fei**, Wenbo Wang, and Xuan Song. "Support-free ceramic stereolithography of complex overhanging structures based on an elasto-viscoplastic suspension feedstock." *ACS applied materials & interfaces* 11, no. 20 (2019): 18849-18857.
  
