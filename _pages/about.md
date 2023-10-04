@@ -10,7 +10,7 @@ redirect_from:
 
 [//]: # (I am Fan Fei, a PhD candidate in [Additive Manufacturing-Integrated Product Realization Laboratory (AMPRL)](http://user.engineering.uiowa.edu/~xuasong/index.html) working with Prof. [Xuan Song](https://engineering.uiowa.edu/people/xuan-song) in the Department of Industrial and Systems Engineering, University of Iowa.)
 
-I am a Research Associate (PostDoc) in HP Labs, working on HP's next-generation 3D printing method for electronics. <br/>
+I am a Research Associate (Post Doc) in HP Labs, working on HP's next-generation 3D printing method for electronics. <br/>
 
 My research interests include additive manufacturing (AM) processes, microstructure characterization, multi-phase finite element analysis (FEA), and computational fluid dynamics (CFD). When not doing research, I like to play basketball and take photography.
 
