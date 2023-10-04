@@ -84,7 +84,7 @@ author:
   avatar           : "Portrait2.jpg"
   bio              : "Research Associate, HP Labs"
   location         : "Palo Alto CA"
-  employer         : # "University of Iowa"
+  employer         : #  "University of Iowa"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ugrEXmkAAAAJ&hl=en"
   email            : "fanfei92@hotmail.com"
